@@ -1,11 +1,11 @@
-# Image Blending using 
+# Image Blending 
 
 ## Objective:
-#### To blend a bunch of x-ray threat object images onto the given x-ray bag images.
+### To blend a bunch of x-ray threat object images onto the given x-ray bag images.
 
 
-Method :
-## Threat Object Extraction
+##Method :
+#### Threat Object Extraction
 1) The first part of the method was image pre-processing: This involved thresholding, smoothening, edge detection and contour extraction. 
 
 
