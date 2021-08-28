@@ -4,8 +4,8 @@
 ### To blend a bunch of x-ray threat object images onto the given x-ray bag images.
 
 
-##Method :
-#### Threat Object Extraction
+## Method :
+### Threat Object Extraction
 1) The first part of the method was image pre-processing: This involved thresholding, smoothening, edge detection and contour extraction. 
 
 
@@ -24,7 +24,7 @@
 6) The Threat object was then stored on the disk.
 
 
-#### Blending the threat object onto the baggage image
+### Blending the threat object onto the baggage image
 
 1) The background image and the threat object were loaded from disk
 
