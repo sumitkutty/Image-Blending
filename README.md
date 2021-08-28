@@ -1,7 +1,7 @@
 # Image Blending using 
 
 ## Objective:
--> To blend a bunch of x-ray threat object images onto the given x-ray bag images.
+##### To blend a bunch of x-ray threat object images onto the given x-ray bag images.
 
 
 Method :
